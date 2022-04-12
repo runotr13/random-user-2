@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-# https://runotr13-random-user-app.netlify.app/
  Random user is made using functional component useContext
 
 
